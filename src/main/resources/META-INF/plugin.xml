@@ -28,7 +28,7 @@
     <actions>
         <group text="MyNavBarGroup">
             <add-to-group group-id="MainToolbarRight" anchor="last"/>
-        <action id="com.leve.aihelper.MyCustomAction" class="com.leve.aihelper.MyCustomAction" text="CopyStru" icon="/icons/tree.svg"
+        <action id="com.leve.aihelper.CopyAction" class="com.leve.aihelper.CopyAction" text="CopyStru" icon="/icons/tree.svg"
                 description="copystru"/>
         </group>
     </actions>
